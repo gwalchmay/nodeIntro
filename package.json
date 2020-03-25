@@ -18,5 +18,8 @@
   "homepage": "https://github.com/gwalchmay/nodeIntro#readme",
   "dependencies": {
     "chalk": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node wilders.js"
   }
 }
